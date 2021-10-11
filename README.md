@@ -1,7 +1,7 @@
 ### Eaii, tudo blz ?? Meu nome é Lucas Marchiori 🚀
 
 - 🔭 Atualmente trabalho com back-end.
-- 🌱 Estudando Javascript, React.JS, Node.js, Typescript, SQL. 
+- 🌱 Estudando Javascript, React.JS, Node.JS, Typescript, SQL. 
 
  ##
 
