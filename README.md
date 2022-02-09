@@ -1,7 +1,8 @@
-### Eaii, tudo blz ?? Meu nome é Lucas Marchiori 🚀
+### Hello, what's up ?? My name is Lucas Marchiori 🚀
 
-- 🔭 Atualmente trabalho como Desenvolvedor Full Stack Junior.
-- 🌱 Estudando Javascript, React.JS, Node.JS, Typescript, SQL, NoSQL. 
+- 🚀 I'm a Full Stack Developer. 
+- 🔭 I'm currently working on DevApi Tecnologia. 
+- 🌱 I'm currently learning Javascript, React.JS, Node.JS, Typescript, SQL, NoSQL. 
 
  ##
 
