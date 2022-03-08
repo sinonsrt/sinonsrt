@@ -2,7 +2,7 @@
 
 - 🚀 I'm a Full Stack Developer. 
 - 🔭 I'm currently working on DevApi Tecnologia. 
-- 🌱 I'm currently learning Javascript, React.JS, Node.JS, Typescript, SQL, NoSQL, Docker, Serverless.
+- 🌱 I'm currently learning Javascript, React.JS, Node.JS, Typescript, SQL, NoSQL, Docker, Azure, AWS.
 
  ##
 
