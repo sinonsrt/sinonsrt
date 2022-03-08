@@ -2,7 +2,7 @@
 
 - 🚀 I'm a Full Stack Developer. 
 - 🔭 I'm currently working on DevApi Tecnologia. 
-- 🌱 I'm currently learning Javascript, React.JS, Node.JS, Typescript, SQL, NoSQL. 
+- 🌱 I'm currently learning Javascript, React.JS, Node.JS, Typescript, SQL, NoSQL, Docker. 
 
  ##
 
@@ -24,5 +24,6 @@
   <img align="center" alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="MongoBD" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img align="center" alt="Docker" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" />
    <img align="right" alt="zed" height="150" style="border-radius:50px;"   src="https://cdn.discordapp.com/attachments/895132829116157996/895133006182891530/a702fe8c67b8019bc8c265d90e2478e2.png">
  </div>
