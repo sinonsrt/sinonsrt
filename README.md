@@ -1,6 +1,6 @@
 ### Hello, what's up ?? My name is Lucas Marchiori 🚀
 
-- 🚀 I'm a Full Stack Developer. 
+- 🚀 I'm a Back-end Developer. 
 - 🔭 I'm currently working on Compass.UOL. 
 - 🌱 I'm currently learning Javascript, Typescript, Node.JS, SQL, NoSQL, Docker, Serverless, AWS, Azure.
 
