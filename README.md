@@ -27,5 +27,5 @@
   <img align="center" alt="MongoBD" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Docker" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
  
-   <img align="right" alt="zed" height="150" style="border-radius:50px;"            src="https://cdn.discordapp.com/attachments/895132829116157996/895133006182891530/a702fe8c67b8019bc8c265d90e2478e2.png">
+   <img align="right" alt="zed" height="150" style="border-radius:50px;"            src="https://media.discordapp.net/attachments/915046580166471690/1075106190092156928/pngwing.com.png?width=610&height=610">
  </div>
