@@ -2,7 +2,7 @@
 
 - 🚀 I'm a Back-end Developer. 
 - 🔭 I'm currently working on Compass.UOL. 
-- 🌱 I'm currently learning Javascript, Typescript, Node.JS, SQL, NoSQL, Docker, Serverless, AWS, Azure.
+- 🌱 I'm currently learning Javascript, Node.js, Typescript, SQL, NoSQL, Docker, Tests, Swagger, AWS and Azure.
 
  ##
 
