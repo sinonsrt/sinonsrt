@@ -1,7 +1,7 @@
 ### Hello, what's up ?? My name is Lucas Marchiori 🚀
 
 - 🚀 I'm a Sênior Back-end Developer. 
-- 🔭 I'm currently working on Raízen. 
+- 🔭 I'm currently working on Raízen ⚡. 
 
  ##
 
