@@ -15,7 +15,7 @@
 ```ts
 const lucas = {
   role:     "Senior Software Engineer @ Raízen (Shell Box)",
-  location: "Umuarama, Paraná 🇧🇷",
+  location: "Paraná - Brazil",
 };
 ```
 
