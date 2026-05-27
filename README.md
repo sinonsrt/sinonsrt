@@ -7,6 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lcs-marchiori)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sinonsrt@hotmail.com)
+[![Academic Life](https://img.shields.io/badge/Studies-blue)]([mailto:sinonsrt@hotmail.com](https://github.com/sinonsrt/courses-and-certifications))
 
 </div>
 
